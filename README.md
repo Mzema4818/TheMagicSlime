@@ -2,7 +2,7 @@
 
 <h3>Description</h3>
 
-<p>An android studio app where you play as different slimes trying to get the highest score</p>
+<p>Play as a customizable slime teleporting through the sky avoiding bad objects as you try to reach space! The further you go up the better the rewards will become!</p>
 
 <h3>Controls</h3>
 <p>
